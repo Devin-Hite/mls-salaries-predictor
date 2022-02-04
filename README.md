@@ -1,6 +1,6 @@
-# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Choose Your Own Adventure
+# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Hackathon Project
 
-For project 4, you'll be asked to work on a dataset from one of the following Kaggle competitions. You have the choice of completing a regression problem, a classification problem, or an NLP-focused problem. Perform some EDA, and fit and evaluate at least two models on the dataset you've chosen.
+For project 4, you'll be asked to work on a dataset either from one of the following Kaggle competitions, or that you've selected. You have the choice of completing a regression problem or a classification problem, and you can choose a standard tabular dataset, an NLP dataset, or an image dataset. Your task is to perform some EDA, and to fit and evaluate at least two models on the dataset you've chosen.
 
 You should turn in a repository by 5pm. It should include a README that contains a summary of your work, as well as your code.
 
@@ -21,10 +21,13 @@ You have a limited amount of time to work on this project. As such, we know your
 
 ## Datasets
 
+Here are a few datasets to consider. You're not limited to only these datasets.
+
+If you'd like to choose a different dataset, make sure to get instructor approval. When you send the instructors the dataset you'd like to use, let us know what your target variable will be.
+
 ### Regression
 
 - [Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction)
-- [Video Game Sales Prediction](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 - [Box Office Revenue Prediction](https://www.kaggle.com/c/tmdb-box-office-prediction)
 - [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 
